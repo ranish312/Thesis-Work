@@ -40,6 +40,7 @@ This project implements and evaluates three supervised machine learning classifi
 * Data preprocessing (null removal, duplicates, encoding, scaling)
 * Dimensionality reduction (PCA)
 * Model training (Decision Tree, Random Forest, XGBoost)
+* Ensemble Model
 * Model evaluation (Accuracy, Confusion Matrix, ROC-AUC)
 * Feature importance visualization
 
