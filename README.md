@@ -8,7 +8,7 @@
 
 ## Overview
 
-This project implements and evaluates three supervised machine learning classifiers — Decision Tree, Random Forest, and XGBoost — for detecting DDoS attacks in cloud network traffic using the CIC-IDS2017 dataset.
+This project implements and evaluates three supervised machine learning classifiers — Decision Tree, Random Forest, and XGBoost — and combination of all three modules for detecting DDoS attacks in cloud network traffic using the CIC-IDS2017 dataset.
 
 ---
 
