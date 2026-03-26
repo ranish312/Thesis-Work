@@ -1,7 +1,7 @@
 # Machine Learning-Based DDoS Attack Detection in Cloud Networks
 
 **Author:** Ranish Ghimire
-**Institution:** Gisma University of Applied Sciences, Berlin
+**Institution:** Gisma University of Applied Sciences, Potsdam
 **Programme:** M.Sc. Data Science, AI & Digital Business
 
 ---
